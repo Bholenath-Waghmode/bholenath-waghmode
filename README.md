@@ -1,4 +1,13 @@
-## Hi there 👋
+# Bholenath Waghmode
+### Profile README — bio, skills, project overview
+
+Welcome to my portfolio! I specialize in Automotive EV Software, Embedded Systems, and functional safety standards.
+
+## 🛠️ Core Expertise
+- **Standards:** ISO 26262 · ASPICE · AUTOSAR · CHAdeMO · ISO-15118
+- **Domain:** Automotive EV Software, Powertrain, Charging Infrastructure
+- **Skills:** Embedded C/C++, CAN/LIN Bus, Linux, RTOS Firmware Development, Automotive
+
 
 <!--
 **Bholenath-Waghmode/bholenath-waghmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
